@@ -4,6 +4,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Document</title>
+	<link rel="stylesheet" href="styles/style.css">
 </head>
 <body>
 	<div style="width: 100%; height: 800px;" class="content">
