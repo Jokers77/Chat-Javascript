@@ -7,12 +7,15 @@
 	<link rel="stylesheet" href="styles/style.css">
 </head>
 <body>
-	<div style="width: 100%; height: 800px;" class="content">
+
+	<h1>Chat en Ajax</h1>
+
+	<div style="height: 400px;" class="content">
 
 	</div>
-	<form  method="POST">
+	<form  method="POST" class="form">
 		<input type="text" name="nom" class="nom" placeholder="Votre nom">
-		<input type="textare" name="message" class="message" placeholder="Votre nom">
+		<input type="textare" name="message" class="message" placeholder="Votre message">
 		<input type="submit" class="submit" value="Envoyer">
 	</form>
 

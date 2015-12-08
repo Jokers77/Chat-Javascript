@@ -1,0 +1,16 @@
+body {
+	background: #2C3E50;
+}
+
+.content {
+	background: #fff;
+	width: 500px;
+	margin: auto;
+	padding: 5px;
+}
+
+.form {
+	width: 500px;
+	margin: auto;
+	margin-top: 20px;
+}
